@@ -8,6 +8,8 @@ background-color: FFFF73;
 header p{
   color: 7109AA;
   text-align: center;
+  font-size:27px;
+  padding-top: 7px;
 }
 a{
   color:7109AA;
@@ -19,7 +21,7 @@ a::hover{
 }
 .av{
   text-align: right;
-  font-size:15px
+  font-size:20px
 }
 h1{
   text-align:center;
