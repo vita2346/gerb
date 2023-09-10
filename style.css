@@ -26,9 +26,8 @@ a::hover{
 h1{
   text-align:center;
   color:BFBF30;
-  text-shadow: 5px 5px 0  black;
   font-size:25px
-  box-shadow:0 0 9px black;
+  box-shadow: 3px 3px black;
 }
 div{
   float:center;
