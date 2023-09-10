@@ -27,13 +27,14 @@ h1{
   text-align:center;
   color:BFBF30;
   font-size:25px
-  box-shadow:  5px 5px 0 0 black;
+   box-shadow: 5px 5px 0 0 rgb(0, 0, 0);
 }
 div{
-  float:right;
+  float:center;
   
 }
 img{
   widht:450px;
   height:580px;
+  border:4px dotted 7109AA;
 }
