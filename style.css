@@ -4,3 +4,7 @@ font-size:20px;
 header{
 backgroung-color: FFFF73;
 }  
+header p{
+  color: 7109AA;
+  text-align: center;
+}
